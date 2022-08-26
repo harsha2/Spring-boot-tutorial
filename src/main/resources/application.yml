@@ -17,7 +17,7 @@ spring:
       ddl-auto: update
     show-sql: true
 welcome:
-  message: '"Welcome to Spring Boot!!!"'
+  message: '"Welcome to Spring Boot!!"'
 management:
   endpoints:
     web:
